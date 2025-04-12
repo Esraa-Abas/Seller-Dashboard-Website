@@ -9,7 +9,7 @@ This dashboard allows sellers to manage their products, monitor stock levels, an
 
 ## 🚀 Live Demo
 
-🔗 [Live Demo](#) *([](https://drive.google.com/file/d/1xJgd3dtTFO6libENlPGXS8Muz6KDtWfX/view?usp=drive_link))*  
+🔗 [Live Demo](#https://drive.google.com/file/d/1xJgd3dtTFO6libENlPGXS8Muz6KDtWfX/view?usp=drive_link) *([](https://drive.google.com/file/d/1xJgd3dtTFO6libENlPGXS8Muz6KDtWfX/view?usp=drive_link))*  
 📦 Backend: Node.js + Express | 🌐 Frontend: Angular | 🗃️ Database: MongoDB
 
 ---
